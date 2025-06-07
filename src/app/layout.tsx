@@ -21,6 +21,9 @@ export default function RootLayout({
 					<li>
 						<Link href="form">入力フォーム</Link>
 					</li>
+					<li>
+						<Link href="list">List</Link>
+					</li>
 				</ul>
 				{children}
 			</body>
